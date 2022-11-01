@@ -1,1 +1,1 @@
-worker: npm i -g pm2 && pm2 link 7u3se0grxqyqkv5 661nnurx5t8vhot && pm2 start zeeone.js && pm2 save && pm2 logs && node . --db 'mongodb+srv://mongodb-xyror:zainalgaminggantengsekali@cluster0.hcsu9hv.mongodb.net/?retryWrites=true&w=majority'
+worker: node . --db 'mongodb+srv://mongodb-xyror:zainalgaminggantengsekali@cluster0.hcsu9hv.mongodb.net/?retryWrites=true&w=majority'
