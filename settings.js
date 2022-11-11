@@ -13,10 +13,10 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read message
+global.autoread = true // auto read message
 global.autobio = true 
 global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -34,10 +34,10 @@ global.myweb2 = "-" //bebas
 global.email = "hagozox@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['19098186556'] //premium user
-global.owner = ["19098186556"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "19098186556" // nomor wa kalian
-global.ownernomerr = "+19098186556" //nmr wa kalian
+global.premium = ['6289636371132'] //premium user
+global.owner = ["6289636371132"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6289636371132" // nomor wa kalian
+global.ownernomerr = "+6289636371132" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
