@@ -14,7 +14,7 @@ global.APIKeys = {
 
 // setting 
 global.autoread = true // auto read message
-global.autobio = true 
+global.autobio = false
 global.userRegister = false 
 global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Xyror-MDོ" //namabot kalian
+global.botname = "Xyror-Botz" //namabot kalian
 global.ownername= "ᴹᴿ᭄ PAK ZAINAL DEV'Sོ ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UC5ee56pBIrCaYVv38vU1_Ng" //bebas asal jan hapus
